@@ -1,0 +1,38 @@
+_repo: Quotes-and-Images-From-The-Short-Stories-of-Maupassant_7549
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7549/7549-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maupassant, Guy de, 1850-1893 -- Quotations'
+- !lcc 'PQ'
+- GITenberg
+title: Quotes and Images From The Short Stories of Maupassant
+url: http://www.gutenberg.org/ebooks/7549
